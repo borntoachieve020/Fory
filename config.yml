@@ -339,9 +339,9 @@ matchmaking:
       variant: horde
 
 messages:
-  greeting: "Hey! I am {me} running on {engine}.Type !assist my commands. Contact @tbh_ICareAboutYou for any questions."
+  greeting: "Hey! I am {me} running on {engine}. Type !assist my commands. Contact @tbh_ICareAboutYou for any questions."
   goodbye: "Good game! Any suggestions? Message @tbh_ICareAboutYou"
-  greeting_spectators: "Hey, I'm running on {engine} .Type !help for a list of commands. Contact @tbh_ICareAboutYou for any questions."
+  greeting_spectators: "Hey, I'm running on {engine}. Type !help for a list of commands. Contact @tbh_ICareAboutYou for any questions."
   goodbye_spectators: "Thanks for watching!"
 
 
